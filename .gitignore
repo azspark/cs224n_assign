@@ -142,3 +142,5 @@ data/
 *.en
 *.es
 *.zip
+*.bin
+*.optim
